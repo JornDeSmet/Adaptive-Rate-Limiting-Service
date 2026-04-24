@@ -1,4 +1,0 @@
-/home/jorn_de_smet/RateLimitingService/build/CMakeFiles/rate_limiter.dir
-/home/jorn_de_smet/RateLimitingService/build/CMakeFiles/main.dir
-/home/jorn_de_smet/RateLimitingService/build/CMakeFiles/edit_cache.dir
-/home/jorn_de_smet/RateLimitingService/build/CMakeFiles/rebuild_cache.dir

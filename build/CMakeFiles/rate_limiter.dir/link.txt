@@ -1,2 +1,0 @@
-/usr/bin/ar qc librate_limiter.a CMakeFiles/rate_limiter.dir/src/RateLimiter.cpp.o
-/usr/bin/ranlib librate_limiter.a
