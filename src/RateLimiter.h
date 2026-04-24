@@ -16,11 +16,10 @@ class RateLimiter {
 
         std::size_t allowedRequests;
         std::chrono::seconds timeWindow;
+        void cleanUp(const std::chrono::steady_clock::time_point& now);
 
     public:
         bool allow(const std::string& key);
-
-
         RateLimiter(std::size_t allowedRequests, std::chrono::seconds timeWindow);
 
 };
